@@ -63,8 +63,8 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: `Next`,
-  btn: 'Previous',
-  url: 'https://twitter.com/a_stojanowska',
+  btn: 'Home',
+  url: 'https://aneta.netlify.app/#projects',
   repo: `https://codepen.io/aneta-s`,
 };
 
