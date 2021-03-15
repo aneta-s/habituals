@@ -65,7 +65,7 @@ export const contactData = {
   cta: `Next`,
   btn: 'Home',
   url: 'https://aneta.netlify.app/#projects',
-  repo: `https://codepen.io/aneta-s`,
+  repo: `https://aneta-infographics-uxprocess.netlify.app/`,
 };
 
 // FOOTER DATA
